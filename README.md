@@ -13,9 +13,3 @@
   <img alingn="center" alt="Python" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alingn="center" alt="Python" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </div><br/>
-
-<did>
-  
-  ![Snake animation](https://github.com/MK0s/MK0s/biob/output/github-grid-snake.svg)
-
-</div>
